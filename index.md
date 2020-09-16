@@ -1,4 +1,4 @@
-###**SEVENTEEN**
+#**SEVENTEEN**
 ##**SCOUPS**
 ##**JEONGHAN**
 ##**JOSHUA**
